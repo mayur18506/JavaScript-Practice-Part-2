@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#test {
+    height: 200px;
+    width: 800px;
+    background-color: rgb(159, 159, 30);
+    margin-left: 380px;
+}
