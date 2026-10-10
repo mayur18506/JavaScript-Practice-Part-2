@@ -1,0 +1,17 @@
+#box {
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    border: 1px solid #000;
+    overflow: auto;
+}
+
+#inner-box {
+    height: 150px;
+    width: 1000px;
+    background-color: lightgreen;
+}
+
+body {
+    margin-left: 0px;
+}
